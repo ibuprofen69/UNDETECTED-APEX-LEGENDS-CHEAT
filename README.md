@@ -1,4 +1,12 @@
 # UNDETECTED-APEX-LEGENDS-CHEAT
+DISCORD: https://discord.gg/88J9ueNAHb
+35 invites = free cheat; only 5 left 
+YT cheat trailer: https://youtu.be/5tF7YQTGcvU?si=GlCMc1zErl8bXKXl 
+Have a look
+
+
+
+
 APEX LEGENDS PREMIUM CHEAT: User Guide
 
 Thank you for choosing APEX LEGENDS PREMIUM CHEAT! Before you dive into the action, here's a comprehensive guide to help you get started:
@@ -15,3 +23,6 @@ Customization: Exit Apex Legends and open the downloaded folder. Navigate to Set
 In-Game Configuration: Assign interact, move_forward, and move_back to the corresponding keybinds in APEX LEGENDS.
 Launching the Program: Once you've completed these steps, launch the program, select your screen resolution, and start playing.
 Important Note: Please be aware that key1_pressed_for_anti_recoil and key2_pressed_for_anti_recoil are typically triggered when you press L2 and R3 on your controller.
+
+
+
